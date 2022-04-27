@@ -1,6 +1,7 @@
 ### Bem vindo ao meu perfil, me chamo Lucca!
 
 - 🌱 Interessado em Front-end!
+- 💡  Conhecimento em HTML5, CSS3 e Python 
 - 📝 Estudando sobre Javascript e Banco de Dados (MySQL, SQL Server, Oracle)
 
 <div>
