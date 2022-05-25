@@ -1,8 +1,7 @@
 ### Bem vindo ao meu perfil, me chamo Lucca!
 
-- 🌱 Interessado em Front-end!
-- 💡  Conhecimento em HTML5, CSS3 e Python 
-- 📝 Estudando sobre Javascript e Banco de Dados (MySQL, SQL Server, Oracle)
+- 🌱 Interessado em Front/Back!
+- 📝 Estudando sobre React.
 
 <div>
     <a height:"30" href = "mailto:lucca.kleinsorgen@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
