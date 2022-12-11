@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil, me chamo Lucca!
-### Foco em me tornar o melhor Full Stack.
+### Foco em me tornar Full Stack.
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
