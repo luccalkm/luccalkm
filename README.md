@@ -23,6 +23,7 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="40" />
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" />
+          
 </details>
           
 <details>
@@ -48,4 +49,5 @@
       <img align="center" alt="Lucca-Linux" height="40" width="40"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="center" alt="Lucca-Unity" height="40" width="40"
          src="httdsaps://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> <img align="center" height="40" width="40" alt="svgImg" src="https://img.icons8.com/color/48/null/kibana.png"/> <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/null/elasticsearch.png"/>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" />
 </details>
