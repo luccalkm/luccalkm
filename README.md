@@ -1,5 +1,7 @@
 # Bem vindo ao meu perfil, me chamo Lucca!
 
+https://leetcode.com/luccalkm/
+
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 <a height="30" href="mailto:lucca.kleinsorgen@gmail.com"><img
