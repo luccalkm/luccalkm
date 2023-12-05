@@ -1,5 +1,7 @@
 # Bem vindo ao meu perfil, me chamo Lucca!
 
+Sou desenvolvedor .NET + React
+
 > Acompanhe meu progresso no leetcode!
 
 <a href="https://leetcode.com/luccalkm/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fluccalkm&logo=leetcode&logoColor=yellow" /></a>
